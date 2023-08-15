@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aiyWkPJqf6u+31RqfY6mTj3yxbizuDJgulvf3/i3acvbRT5LRTJhN7R8kKEtfvajO7CIoXRit7YA51BLoAqnSA==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\GeometryLib\\GeometryLibrary\\GeometryLibrary\\GeometryLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aly-u\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\aly-u\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\aly-u\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\aly-u\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
